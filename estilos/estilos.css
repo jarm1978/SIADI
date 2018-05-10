@@ -1,0 +1,47 @@
+body {
+    background-color:#B9FFFF;
+}
+h1 {
+  letter-spacing:8px;
+  word-spacing:20px;
+  text-transform:capitalize;
+}
+.1{
+    color: black;
+    margin: auto;
+    font-family:verdana;
+    font-size:17px;
+}
+.ingresar {
+    text-decoration: none;
+    display: block;
+    font-weight: bold;
+    font-size: 13pt;
+    border: 2px solid gray;
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    padding-top: 10px;
+    background-color: #28B19D;
+    color: #F1FFFD;
+    font-family: "Arial";
+    position: relative;
+    right: 100px;
+}
+.cancelar {
+    text-decoration: none;
+    display: block;
+    font-weight: bold;
+    font-size: 13pt;
+    border: 2px solid gray;
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    padding-top: 10px;
+    background-color: crimson;
+    color: #F1FFFD;
+    font-family: "Arial";
+    position: relative;
+    bottom: 35px;
+    left: 150px;
+}
